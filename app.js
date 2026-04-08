@@ -83,11 +83,11 @@ const server = http.createServer((req, res) => {
             }
 
             .docker-tag {
-                background: white;
+                background: linear-gradient(135deg, #0f62fe, #0043ce);
+                color: white;
                 padding: 10px 15px;
                 border-radius: 6px;
                 font-size: 14px;
-                color: #161616;
                 margin: 5px;
                 display: inline-block;
             }
