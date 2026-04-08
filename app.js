@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Docker Demo - IBM Cloud</title>
+        <title>Openshift Demo</title>
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
         <style>
             * {
@@ -112,14 +112,14 @@ const server = http.createServer((req, res) => {
             <div class="version">Version 1.0</div>
 
             <div class="docker-info">
-                <div class="docker-title">⚙️OpenShift Deployment</div>
-                <div class="docker-tag">☁️Platform: OpenShift</div>
-                <div class="docker-tag">🟢Runtime: Node.js</div>
-                <div class="docker-tag">🔌Port: 3000</div>
+                <div class="docker-title">⚙️ OpenShift Deployment</div>
+                <div class="docker-tag">☁️ Platform: OpenShift</div>
+                <div class="docker-tag">🟢 Runtime: Node.js</div>
+                <div class="docker-tag">🔌 Port: 3000</div>
             </div>
 
             <div class="footer">
-                Node.js | Docker | IBM Cloud
+                OpenShift | Node.js 
             </div>
         </div>
     </body>
