@@ -109,7 +109,7 @@ const server = http.createServer((req, res) => {
                 Application deployed on OpenShift Platform
             </div>
 
-            <div class="version">Version 1.0</div>
+            <div class="version">Version 2.0</div>
 
             <div class="docker-info">
                 <div class="docker-title">⚙️ OpenShift Deployment</div>
