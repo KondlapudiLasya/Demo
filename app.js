@@ -103,18 +103,19 @@ const server = http.createServer((req, res) => {
         <div class="card">
             <div class="badge">✓ Deployment Successful</div>
             
-            <h1>🚀 Docker Demo</h1>
+            <h1>🚀 Openshift Demo</h1>
             
             <div class="subtitle">
-                Application running in Docker container
+                Application running in Openshift Platform
             </div>
 
-            <div class="version">Version 2.0</div>
+            <div class="version">Version 1.0</div>
 
             <div class="docker-info">
-                <div class="docker-title">🐳 Docker Container</div>
-                <div class="docker-tag">📦 node:alpine</div>
-                <div class="docker-tag">🔌 Port: 3000</div>
+                <div class="docker-title">⚙️OpenShift Deployment</div>
+                <div class="docker-tag">☁️Platform: OpenShift</div>
+                <div class="docker-tag">🟢Runtime: Node.js</div>
+                <div class="docker-tag">🔌Port: 3000</div>
             </div>
 
             <div class="footer">
