@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Openshift Demo</title>
+        <title>OpenShift Demo</title>
         <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
         <style>
             * {
@@ -103,7 +103,7 @@ const server = http.createServer((req, res) => {
         <div class="card">
             <div class="badge">✓ Deployment Successful</div>
             
-            <h1>🚀 Openshift Demo</h1>
+            <h1>🚀 OpenShift Demo</h1>
             
             <div class="subtitle">
                 Application deployed on OpenShift Platform
